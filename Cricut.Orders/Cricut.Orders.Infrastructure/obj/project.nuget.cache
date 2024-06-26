@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BONy56HZjc3EiSOs0rnNmgMhrfkgwB8CZxLlLmtDmM8ehVQJ+wvHccUrx7yU5lWEeVF5rRu0XQefuv6y1D5kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam\\Desktop\\CricutOrdersChallenge\\Cricut.Orders\\Cricut.Orders.Infrastructure\\Cricut.Orders.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
